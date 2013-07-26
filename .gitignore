@@ -1,5 +1,8 @@
 *~
 *.pyc
 
+# hardlinked .md for use with firefox markdown plugin
+*.mdown
+
 # file for holding test sets of 9 characters
 charsets
