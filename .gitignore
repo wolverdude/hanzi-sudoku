@@ -1,0 +1,5 @@
+*~
+*.pyc
+
+# file for holding test sets of 9 characters
+charsets
